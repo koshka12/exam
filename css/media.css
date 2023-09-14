@@ -1,0 +1,288 @@
+@media (max-width: 1280px) {
+    .container {
+        max-width: 1152px;
+    }
+    .button {
+        margin-left: 170px;
+    }
+
+    .page__2 .IMAGE__3__4 {
+        direction: flex;
+        flex-direction: column;
+        margin-left: 200px;
+        margin-top: -100px;
+    }
+    .page__3 {
+    
+        height: 580px;
+    }
+
+    .page__3 {
+        margin-top: 675px;
+    }
+
+    .page__3 img {
+        width: 550px;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+
+    .page__3 .orange__text {
+        width: 200px;
+        left: 500px;
+        padding-top: 300px;
+      
+       
+    }
+
+    .page__3 .orange__text h1 {
+        width: 450px;
+        margin-right: 0;
+        font-size: 30px;
+        margin-top: -20px;
+        line-height: 30px;
+        padding-top: 10px;
+    }
+
+    .page__3 .orange__text h2 {
+        padding: 0;
+        margin-top: -30px;
+        width: 200px;
+        
+    }
+    .orange__text h3 {
+        width: 200px;
+        padding-top: 30px;
+    }
+
+    .page__3 .orange__text p {
+        padding: 0;
+        width: 580px;
+        font-size: 16px;
+        line-height: 20px;
+      
+    }
+    .list__green {
+       margin-top: 10px;
+       width: 80px;
+       height: 80px;
+        
+    }
+    .orange__text .list__green__text p {
+        width: 500px;
+    }
+
+    .orange__text .btn__2 img {
+        width: 200px;
+       padding-top: 170px;
+        
+       
+    }
+    .bird__house__green {
+        width: 80px;
+        height: 80px;
+        
+       
+    }
+
+.orange__text .bird__house__green__text__1{
+    padding-top: -20px;
+}
+.orange__text .bird__house__green__text__2 p{
+    width: 500px;
+}
+.orange__text .btn__2 p {
+    padding-top: 30px;
+   
+   
+}
+
+.page__4 .container h3 {
+    padding-top: 20px;
+}
+
+.page__4 .catalog {
+    display: grid;
+    grid-template-rows: repeat(2, 387px);
+    grid-template-columns: repeat(2, 378px);
+    gap:230px 170px;
+    
+}
+
+.page__5 {
+    margin-top: 1950px;
+
+}
+.page__6 {
+   
+    height: 1600px;
+}
+.down__page__6 {
+    display: grid;
+    grid-template-rows: repeat(2, 387px);
+    grid-template-columns: repeat(2, 378px);
+    gap:230px 120px; 
+     
+  
+}
+.page__7 .forest__white {
+    
+    width: 500px;
+    height: 600px;
+
+}
+.page__7 h1{
+   width: 300px;
+   font-size: 38px;
+}
+
+.page__7 h3 {
+    padding-top: 0px;
+}
+.page__7 p {
+    width: 500px;
+}
+
+.page__8 img {
+    width: 350px;
+   
+
+}
+.foto__page__8 button {
+  padding-right: 10px;
+  width: 180px;
+  height: 75px;
+  font-size: 18px;
+  margin-top: 50px;
+}
+
+.foto__page__8 .green,
+.foto__page__8 .book,
+.foto__page__8 .chocolate {
+    width: 350px;
+  
+} 
+.page__8 .foto__page__8 {
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.page__8 {
+   
+    height: 600px;
+}
+
+.orange__text__btn {
+    padding-left: 100px;
+   
+}
+
+.page__9 .container { 
+  background-image: url(../Image/orange__finish.png);
+ background-size: 1100px;
+
+  
+}
+.orange__text__h2 h2{
+    padding-top: 70px;
+}
+.orange__text__btn {
+    padding-top: 90px;
+
+
+}
+.finish__page {
+    margin-top: 0px;
+}
+}
+@media (max-width: 1152px) {
+    .container {
+        max-width: 1000px;
+    }
+
+    .button {
+        margin-left: 90px;
+    }
+    .navigation ul {
+        margin-left: 30px;
+    }
+
+    .page__3 img {
+        width: 450px;
+
+    }
+    .page__3 .orange__text {
+        width: 180px;
+        left: 420px;
+        padding-top: 400px;
+      
+       
+    }
+
+
+    .page__6 h2 {
+        width: 350px;
+    }
+
+    .top__btn__6 {
+        padding-left: 220px;
+    }
+
+    .page__7 .forest__white {
+        margin-left: 450px;
+    }
+    .page__9 .container { 
+        background-image: url(../Image/orange__finish.png);
+       background-size: 1000px;
+      
+        
+      }
+      .orange__text__h2 h2{
+          padding-top: 70px;
+          font-size: 40px;
+          padding-left: 30px;
+      }
+      .orange__text__btn {
+          padding-top: 90px;
+          padding-left: 50px;
+      
+}
+
+
+}
+
+
+
+@media (max-width: 1024px) {
+
+}
+
+
+
+
+
+
+
+@media (max-width: 800px) {
+
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+}
+
+
+
+
+
+
+
+@media (max-width: 640px) {
+
+}
